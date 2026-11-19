@@ -1,0 +1,18 @@
+info: Nov-19-2026 18:48:52: 	listening on *:8877
+error: Nov-19-2026 18:48:52: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 18:48:52: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 18:48:55: 	listening on *:8877
+error: Nov-19-2026 18:48:55: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 18:48:55: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 18:54:53: 	listening on *:8877
+error: Nov-19-2026 18:54:53: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 18:54:53: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 18:55:09: 	listening on *:8877
+error: Nov-19-2026 18:55:09: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 18:55:09: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 18:55:13: 	listening on *:8877
+error: Nov-19-2026 18:55:13: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 18:55:13: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 18:55:19: 	listening on *:8877
+error: Nov-19-2026 18:55:19: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 18:55:19: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin

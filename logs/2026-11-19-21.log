@@ -1,0 +1,29 @@
+info: Nov-19-2026 21:01:59: 	listening on *:8877
+error: Nov-19-2026 21:01:59: 	error: cannt connet to mongoDB MongoParseError: URI contained empty userinfo section
+info: Nov-19-2026 21:01:59: 	suscess: connet to mongoDB @mongodb://:@127.0.0.1:27017/studenthub?authSource=studenthub
+info: Nov-19-2026 21:02:05: 	listening on *:8877
+error: Nov-19-2026 21:02:05: 	error: cannt connet to mongoDB MongoParseError: URI contained empty userinfo section
+info: Nov-19-2026 21:02:05: 	suscess: connet to mongoDB @mongodb://:@127.0.0.1:27017/studenthub?authSource=studenthub
+info: Nov-19-2026 21:02:08: 	listening on *:8877
+error: Nov-19-2026 21:02:08: 	error: cannt connet to mongoDB MongoParseError: URI contained empty userinfo section
+info: Nov-19-2026 21:02:08: 	suscess: connet to mongoDB @mongodb://:@127.0.0.1:27017/studenthub?authSource=studenthub
+info: Nov-19-2026 21:03:32: 	listening on *:8877
+info: Nov-19-2026 21:03:32: 	suscess: connet to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:03:37: 	listening on *:8877
+info: Nov-19-2026 21:03:37: 	suscess: connet to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:03:41: 	listening on *:8877
+info: Nov-19-2026 21:03:41: 	suscess: connet to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:10:16: 	listening on *:8877
+info: Nov-19-2026 21:10:16: 	success: connect to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:10:19: 	listening on *:8877
+info: Nov-19-2026 21:10:19: 	success: connect to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:26:18: 	listening on *:8877
+error: Nov-19-2026 21:26:18: 	error: cannot connect to mongoDB @mongodb://127.0.0.1:27017/studenthub MongoServerError: Authentication failed.
+info: Nov-19-2026 21:26:21: 	listening on *:8877
+error: Nov-19-2026 21:26:21: 	error: cannot connect to mongoDB @mongodb://127.0.0.1:27017/studenthub MongoServerError: Authentication failed.
+info: Nov-19-2026 21:33:12: 	listening on *:8877
+info: Nov-19-2026 21:33:12: 	success: connect to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:33:33: 	listening on *:8877
+info: Nov-19-2026 21:33:33: 	success: connect to mongoDB @mongodb://127.0.0.1:27017/studenthub
+info: Nov-19-2026 21:33:37: 	listening on *:8877
+info: Nov-19-2026 21:33:37: 	success: connect to mongoDB @mongodb://127.0.0.1:27017/studenthub

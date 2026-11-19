@@ -1,0 +1,15 @@
+info: Nov-19-2026 19:02:05: 	listening on *:8877
+error: Nov-19-2026 19:02:05: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 19:02:05: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 19:02:10: 	listening on *:8877
+error: Nov-19-2026 19:02:10: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Nov-19-2026 19:02:10: 	suscess: connet to mongoDB @mongodb://studenthub_app:StudentHub_App_2026@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 19:59:32: 	listening on *:8877
+error: Nov-19-2026 19:59:32: 	error: cannt connet to mongoDB MongoParseError: URI contained empty userinfo section
+info: Nov-19-2026 19:59:32: 	suscess: connet to mongoDB @mongodb://:@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 19:59:38: 	listening on *:8877
+error: Nov-19-2026 19:59:38: 	error: cannt connet to mongoDB MongoParseError: URI contained empty userinfo section
+info: Nov-19-2026 19:59:38: 	suscess: connet to mongoDB @mongodb://:@127.0.0.1:27017/studenthub?authSource=admin
+info: Nov-19-2026 19:59:40: 	listening on *:8877
+error: Nov-19-2026 19:59:40: 	error: cannt connet to mongoDB MongoParseError: URI contained empty userinfo section
+info: Nov-19-2026 19:59:40: 	suscess: connet to mongoDB @mongodb://:@127.0.0.1:27017/studenthub?authSource=admin
